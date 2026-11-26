@@ -1,0 +1,6 @@
+node_modules/
+.env
+server/uploads/*
+!server/uploads/.gitkeep
+artifacts/Secura.json
+artifacts/contract-address.json
